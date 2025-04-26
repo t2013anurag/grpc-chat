@@ -3,7 +3,6 @@
 # 🗨️ gRPC Chat Application in Go
 
 This is a simple **gRPC-based bidirectional streaming chat server** and client built with Go.  
-Multiple clients can join a chat room and send messages to each other in real time.
 
 ---
 
